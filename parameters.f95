@@ -76,13 +76,5 @@ module model_vars
 
   ! coriolis matrix
   real*8, dimension(1:nx, 1:ny) :: f
-
-
-
-
-
-
-
-
   
 end module model_vars
